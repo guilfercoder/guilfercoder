@@ -1,24 +1,29 @@
 <h1 align="center">👋 Olá! Eu sou o Guilherme</h1>
 
 <p align="center">
-Apaixonado por tecnologia, música e futebol. Estudante de Análise e Desenvolvimento de Sistemas, focado em projetos com Python, dados e desenvolvimento web.  
-📌 Buscando oportunidade como estagiário em TI para aplicar na prática o que venho aprendendo.
+Apaixonado por tecnologia, música e futebol.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, atualmente aprendendo <b>C#, .NET, ASP.NET</b> e <b>React</b>.  
+🚀 Busco uma oportunidade como estagiário em tecnologia para colocar em prática meus conhecimentos e continuar evoluindo.
 </p>
 
 ---
 
 ## 📚 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 👨‍💻 Aprendendo Python, SQL, HTML, CSS, JavaScript e Power BI  
-- 📊 Foco atual: Projetos de Análise de Dados e Desenvolvimento Web  
-- 🚀 Buscando oportunidades como estagiário em tecnologia
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+- 🔭 Atualmente estudando C#, .NET, ASP.NET e React  
+- 🌱 Também tenho conhecimentos em SQL, HTML, CSS, JavaScript e Power BI  
+- 🎯 Foco atual: Desenvolvimento Web e Backend com .NET  
+- 🚀 Buscando oportunidades como estagiário em desenvolvimento
 
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -41,8 +46,8 @@ Apaixonado por tecnologia, música e futebol. Estudante de Análise e Desenvolvi
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-ferreira-silva/)
-- 📧 Email: guilherme.gfds@outlook.com
+- 📧 Email: **guilherme.gfds@outlook.com**
 
 ---
 
-🔍 *Perfil em constante evolução. Acompanhe meus aprendizados e projetos!*
+🔍 *Perfil em constante evolução — acompanhando minha jornada no mundo do desenvolvimento!*
